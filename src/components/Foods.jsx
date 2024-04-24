@@ -70,7 +70,6 @@ const Food = () => {
 
         {/* Filter Price */}
         <div>
-          
           <p className='font-bold text-gray-700'>Filter Price</p>
           <div className='flex justify-between max-w-[390px] w-full'>
             <button
@@ -105,7 +104,7 @@ const Food = () => {
       <div className='grid grid-cols-2 lg:grid-cols-4 gap-6 pt-4'>
         {foods.map((item, index) => (
           <div
-            key={item.id}
+            key={index}
             className='border shadow-lg rounded-lg hover:scale-105 duration-300'
           >
             <img
