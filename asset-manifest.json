@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/afrodelicetrieste/static/css/main.de6909c1.css",
-    "main.js": "/afrodelicetrieste/static/js/main.752021bb.js",
+    "main.js": "/afrodelicetrieste/static/js/main.adae63cc.js",
     "index.html": "/afrodelicetrieste/index.html",
     "main.de6909c1.css.map": "/afrodelicetrieste/static/css/main.de6909c1.css.map",
-    "main.752021bb.js.map": "/afrodelicetrieste/static/js/main.752021bb.js.map"
+    "main.adae63cc.js.map": "/afrodelicetrieste/static/js/main.adae63cc.js.map"
   },
   "entrypoints": [
     "static/css/main.de6909c1.css",
-    "static/js/main.752021bb.js"
+    "static/js/main.adae63cc.js"
   ]
 }
