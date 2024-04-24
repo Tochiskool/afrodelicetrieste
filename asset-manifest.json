@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/afrodelicetrieste/static/css/main.b6a9aba7.css",
+    "main.js": "/afrodelicetrieste/static/js/main.a3248fc8.js",
+    "index.html": "/afrodelicetrieste/index.html",
+    "main.b6a9aba7.css.map": "/afrodelicetrieste/static/css/main.b6a9aba7.css.map",
+    "main.a3248fc8.js.map": "/afrodelicetrieste/static/js/main.a3248fc8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6a9aba7.css",
+    "static/js/main.a3248fc8.js"
+  ]
+}
